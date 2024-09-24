@@ -1,0 +1,6 @@
+	{
+    	  "rewrites": [
+    	    { "source": "/(.*)", "destination": "https://wowch.vercel.app/" }
+    	  ]
+    }
+    
